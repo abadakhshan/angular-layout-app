@@ -1,3 +1,3 @@
 # AngularLayoutApp
 
-Sample Application for https://medium.com/@abadakhshan/using-layout-in-angular-6d8306bad5e0
+Sample Application for https://medium.com/@abadakhshan/implementing-layout-in-angular-21b01a54b71d
